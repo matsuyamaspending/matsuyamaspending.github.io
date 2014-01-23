@@ -26,7 +26,7 @@ Core Team: (@は Twitter Account)
 
 愛媛県松山市版
 
-早瀬　潤也 (Junya Hayase)
+早瀬　潤也 (Junya Hayase), 
 兼久　信次郎(Shinjiro Kanehisa)
 
 このソースコードは、Open Definition(http://opendefinition.org/) の定義に沿っていれば、どなたでも利用、改変、及び再配布が可能です。
